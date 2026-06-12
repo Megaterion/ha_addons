@@ -1,6 +1,6 @@
 name: Signal Messenger
 url: https://github.com/haberda/signal-addon
-version: 0.99.0
+version: 0.100.0
 slug: signal_messenger
 arch:
 - aarch64
@@ -24,4 +24,5 @@ schema:
   SIGNAL_CLI_CMD_TIMEOUT: int
 environment:
   SIGNAL_CLI_CONFIG_DIR: /config
+  ENABLE_PLUGINS: true
 image: ghcr.io/haberda/signal_messenger/{arch}

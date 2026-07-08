@@ -3,7 +3,7 @@ Addons I personally use.
 
 # Installation
 
-Either click the button below or add `https://github.com/megaterion/ha_addons` to your addon repositorys.
+Either click the button below or add `https://github.com/megaterion/ha_addons` to your addon repositories.
 
 [![Install this repository](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fmegaterion%2Fha_addons%2F)
 

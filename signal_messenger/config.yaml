@@ -5,7 +5,7 @@ slug: signal_messenger
 arch:
 - aarch64
 - amd64
-- armhf
+- armv7
 description: Signal Messenger Home Assistant Addon
 startup: services
 ports:
@@ -24,4 +24,3 @@ schema:
   SIGNAL_CLI_CMD_TIMEOUT: int
 environment:
   SIGNAL_CLI_CONFIG_DIR: /config
-image: docker.io/bbernhard/signal-cli-rest-api

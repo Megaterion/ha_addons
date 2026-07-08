@@ -4,4 +4,4 @@ addons:
   signal_messenger:
     repository: haberda/signal-addon
     target: signal
-    image: ghcr.io/haberda/signal_messenger/0.92
+    image: docker.io/bbernhard/signal-cli-rest-api:{version}

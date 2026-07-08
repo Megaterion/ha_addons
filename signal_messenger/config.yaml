@@ -1,5 +1,5 @@
 name: Signal Messenger
-url: https://github.com/haberda/signal-addon
+url: https://github.com/megaterion/ha_addons
 version: 0.92
 slug: signal_messenger
 arch:
@@ -24,4 +24,4 @@ schema:
   SIGNAL_CLI_CMD_TIMEOUT: int
 environment:
   SIGNAL_CLI_CONFIG_DIR: /config
-image: ghcr.io/haberda/signal/{arch}
+image: ghcr.io/megaterion/signal/{arch}

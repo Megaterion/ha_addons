@@ -4,4 +4,4 @@ addons:
   signal_messenger:
     repository: megaterion/ha_addons
     target: signal_messenger
-    image: ghcr.io/megaterion/signal/{arch}
+    image: docker.io/bbernhard/signal-cli-rest-api

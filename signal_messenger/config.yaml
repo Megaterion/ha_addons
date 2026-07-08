@@ -24,4 +24,4 @@ schema:
   SIGNAL_CLI_CMD_TIMEOUT: int
 environment:
   SIGNAL_CLI_CONFIG_DIR: /config
-image: docker.io/bbernhard/signal-cli-rest-api:{version}
+image: ghcr.io/haberda/signal/{arch}
